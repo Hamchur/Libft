@@ -1,4 +1,5 @@
-# Описание функций
+# Libft
+## Описание функций
 ![alt-текст](https://user-images.githubusercontent.com/73585355/111908135-1eed4f00-8a69-11eb-9de5-1e08690aee80.png)
 ## Mandatory part
 |№|Функция|Описание|
